@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis Projects 
 
 [Election Data Analysis Using Python](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
