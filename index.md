@@ -19,7 +19,7 @@
 
 
 ---
-[Movie Analysis with Python](https://github.com/sdkall/sdkall.github.io/blob/41bb5ee9627b422d8b63f2706b4cfe3702b0ac3d/Movie%20analysis.ipynb)
+[Movie Analysis with Python](https://github.com/sdkall/sdkall.github.io/blob/b63dd1ef3525ee8f6e9a486c5fae6c8e6aad54b1/Movie_analysis.ipynb)
 
 <img width="897" alt="Screenshot 2023-02-03 at 2 42 28 AM" src="https://user-images.githubusercontent.com/122862334/216541203-7fcf2587-d514-4bfa-9d70-cc6067aad797.png">
 
