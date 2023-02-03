@@ -4,9 +4,10 @@
 
 ### Data Analysis Projects 
 
-[Customer analysis and clustering with Python](/sample_page)
+[Customer analysis and clustering with Python](https://github.com/sdkall/sdkall.github.io/files/10576729/Customer.analysis.and.clustering.pdf)
 
 <img width="600" alt="Screenshot 2023-02-03 at 2 25 18 AM" src="https://user-images.githubusercontent.com/122862334/216537955-7c1e7446-ecef-4d2a-8caa-17342c4ac49b.png">
+
 
 
 
