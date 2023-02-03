@@ -13,25 +13,19 @@
 
 
 ---
-[Election Data Analysis Using Python](/pdf/sample_presentation.pdf)
+[Election Data Analysis Using Python](https://github.com/sdkall/sdkall.github.io/blob/2926953a25077b8aa4b565717da14904bd42f096/election_analysis.ipynb)
 
 <img width="600" alt="Screenshot 2023-02-03 at 2 33 17 AM" src="https://user-images.githubusercontent.com/122862334/216539513-8bbfbdec-c584-4ace-aeeb-619e45ba7e34.png">
 
 
 ---
-[Covid_19 Analysis with Python](http://example.com/)
+[Movie Analysis with Python](https://github.com/sdkall/sdkall.github.io/blob/41bb5ee9627b422d8b63f2706b4cfe3702b0ac3d/Movie%20analysis.ipynb)
 
 <img width="897" alt="Screenshot 2023-02-03 at 2 42 28 AM" src="https://user-images.githubusercontent.com/122862334/216541203-7fcf2587-d514-4bfa-9d70-cc6067aad797.png">
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 
 ---
