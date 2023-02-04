@@ -12,18 +12,22 @@
 
 
 
+
+
 ---
+
+[Bikers Analysis with Python](https://github.com/sdkall/sdkall.github.io/blob/1c54818ddb8e59bd84e072b11e220f8993d8d36f/bike_analysis.ipynb)
+
+<img width="600" alt="Screenshot 2023-02-04 at 4 40 36 PM" src="https://user-images.githubusercontent.com/122862334/216790728-2a4b96ab-0f04-4d2e-ab46-34bd109da35d.png">
+
+---
+
 [Election Data Analysis Using Python](https://github.com/sdkall/sdkall.github.io/blob/2926953a25077b8aa4b565717da14904bd42f096/election_analysis.ipynb)
 
 <img width="600" alt="Screenshot 2023-02-03 at 2 33 17 AM" src="https://user-images.githubusercontent.com/122862334/216539513-8bbfbdec-c584-4ace-aeeb-619e45ba7e34.png">
 
-
 ---
-[Movie Analysis with Python](https://github.com/sdkall/sdkall.github.io/blob/b63dd1ef3525ee8f6e9a486c5fae6c8e6aad54b1/Movie_analysis.ipynb)
 
-<img width="600" alt="Screenshot 2023-02-03 at 2 42 28 AM" src="https://user-images.githubusercontent.com/122862334/216682519-7ca7ec8b-0c56-4628-ae75-779c3f13fa05.png">
-
----
 
 
 
