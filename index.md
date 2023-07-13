@@ -4,8 +4,7 @@
 
 ### Designing a Simulated Hybrid Cloud Architecture with AWS and Site-to-Site VPN
 
-[Full report]
-(https://github.com/sdkall/sdkall.github.io/blob/0bb18943627c4f7adfc3dfc475699303d772fd35/Capstone_report.docx)
+[Full report](https://github.com/sdkall/sdkall.github.io/blob/0bb18943627c4f7adfc3dfc475699303d772fd35/Capstone_report.docx)
 
 <img width="600" alt="Screenshot 2023-02-03 at 2 25 18 AM" src="https://user-images.githubusercontent.com/122862334/216537955-7c1e7446-ecef-4d2a-8caa-17342c4ac49b.png">
 
