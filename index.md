@@ -2,9 +2,9 @@
 
 ---
 
-### Data Analysis Projects 
+### Cyber Security Capstone Project
 
-[Customer analysis and clustering with Python](https://github.com/sdkall/sdkall.github.io/blob/b3ac278cd67b8189ced89de433413fd972120c1e/Customer%20analysis%20and%20clustering.ipynb)
+[Designing a Simulated Hybrid Cloud Architecture with AWS and Site-to-Site VPN](https://github.com/sdkall/sdkall.github.io/blob/b3ac278cd67b8189ced89de433413fd972120c1e/Customer%20analysis%20and%20clustering.ipynb)
 
 <img width="600" alt="Screenshot 2023-02-03 at 2 25 18 AM" src="https://user-images.githubusercontent.com/122862334/216537955-7c1e7446-ecef-4d2a-8caa-17342c4ac49b.png">
 
